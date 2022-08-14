@@ -31,5 +31,14 @@
         "psr-0": {
             "OfxParser": "lib/"
         }
+    },
+  "repositories": {
+    "mongogento": {
+      "type": "vcs",
+      "url": "https://github.com/tiagooliveira1/ofxparser/",
+      "require":{
+        "composer/installers": "~1.0"
+      }
     }
+  }
 }
