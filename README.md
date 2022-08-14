@@ -12,7 +12,7 @@ It supports multiple Bank Accounts, the required "Sign On" response, and recogni
 Simply require the package using [Composer](https://getcomposer.org/):
 
 ```bash
-$ composer require asgrim/ofxparser
+$ composer require troliveira/ofxparser
 ```
 
 ## Usage
