@@ -19,10 +19,10 @@
             "email": "mrtriangle@gmail.com"
         }
     ],
-    "require": {
-        "php": "~5.6|~7.0|8.1.*"
-    },
   "minimum-stability": "dev",
+    "require": {
+        "php": "~5.6|~7.0|^8"
+    },
     "require-dev": {
         "phpunit/phpunit": "~9.5",
         "squizlabs/php_codesniffer": "~2.6"
