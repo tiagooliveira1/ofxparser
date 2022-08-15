@@ -32,10 +32,5 @@
             "OfxParser": "lib/"
         }
     },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/tiagooliveira1/ofxparser/"
-    }
-  ]
+
 }
