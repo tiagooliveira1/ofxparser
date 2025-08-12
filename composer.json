@@ -1,6 +1,6 @@
 {
     "name": "troliveira/ofxparser",
-    "description": "Simple OFX file parser",
+    "description": "Meu fork do projeto Simple OFX file parser",
     "keywords": ["ofx", "open financial exchange", "finance", "parser"],
     "license": "MIT",
     "authors": [
